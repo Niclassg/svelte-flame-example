@@ -1,5 +1,5 @@
 <script lang="en">
-	import { db, auth } from './firebaseInit';
+	import { db, auth } from '$lib/firebaseInit';
 	import { SvelteFlame } from "svelte-flame"
 
 </script>
